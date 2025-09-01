@@ -1,0 +1,2 @@
+scenario,factor,base_val,delta,T_mean,T_std,Delta_T,Elasticity,p_value,n
+tau_A_minus,tau_A,150,-0.1,15.96875,0.309359216769115,0,0,1,2
